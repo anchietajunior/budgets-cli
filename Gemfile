@@ -4,4 +4,7 @@ source 'https://rubygems.org'
 
 gem 'pry'
 gem 'rb-readline'
-gem 'tty-table'
+gem 'rspec'
+gem 'rubocop'
+gem 'solargraph'
+gem 'terminal-table'
