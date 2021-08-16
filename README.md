@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/8007754/129572936-c44f728b-29d7-4c5b-9
 
 ### Show a year report
 
-https://user-images.githubusercontent.com/8007754/129573553-a2afdb3e-8d43-44e8-8774-ea1aa7cb5fe5.mp4
+https://user-images.githubusercontent.com/8007754/129574488-1d1613bd-8248-4103-9068-012852aea612.mp4
 
 ## Dependencies
 
