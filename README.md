@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/8007754/129572936-c44f728b-29d7-4c5b-9
 
 ### Show a year report
 
-https://user-images.githubusercontent.com/8007754/129572995-9cc124ee-c907-4368-8114-2af0c954f586.mp4
+https://user-images.githubusercontent.com/8007754/129573553-a2afdb3e-8d43-44e8-8774-ea1aa7cb5fe5.mp4
 
 ## Dependencies
 
@@ -45,3 +45,9 @@ bundle exec rspec
 ## Code Design Tips
 
 - Rubocop
+
+## TODO
+
+- write more specs
+- add a table module
+- add a bigdecimal handler module
