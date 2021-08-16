@@ -9,13 +9,39 @@ A simple CLI budget control written using Ruby without frameworks and saving the
 - See balance (wip)
 - Show month report (wip)
 
-## Example
+## Examples
 
-This command **budgets** is mapped in my ~/.zshrc file.
+### Open CLI menu typping 1
 
-https://user-images.githubusercontent.com/8007754/129456800-487db5e0-2481-4d65-bf28-9ade18627600.mp4
+https://user-images.githubusercontent.com/8007754/129572698-83143c41-c5d0-4a82-8f6b-963079c98402.mp4
+
+### Add a account payable
+
+https://user-images.githubusercontent.com/8007754/129572762-d62c82b2-1777-45ba-b9d8-5d8cbd70b592.mp4
+
+### Add a account receivable
+
+https://user-images.githubusercontent.com/8007754/129572881-85b19f03-40bf-4c72-84db-feb1775a15b8.mp4
+
+### Show a month report
+
+https://user-images.githubusercontent.com/8007754/129572936-c44f728b-29d7-4c5b-9111-8f2b63ac4931.mp4
+
+### Show a year report
+
+https://user-images.githubusercontent.com/8007754/129572995-9cc124ee-c907-4368-8114-2af0c954f586.mp4
 
 ## Dependencies
 
 - readline-rb
-- tty-table
+- terminal-table
+
+## Testing
+
+```terminal
+bundle exec rspec
+```
+
+## Code Design Tips
+
+- Rubocop
