@@ -5,9 +5,9 @@ A simple CLI budget control written using Ruby without frameworks and saving the
 ## Options
 
 - Add payables
-- Add receivables (wip)
-- See balance (wip)
-- Show month report (wip)
+- Add receivables
+- Show month report
+- - Show year report
 
 ## Examples
 
