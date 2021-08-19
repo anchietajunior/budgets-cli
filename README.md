@@ -7,7 +7,7 @@ A simple CLI budget control written using Ruby without frameworks and saving the
 - Add payables
 - Add receivables
 - Show month report
-- - Show year report
+- Show year report
 
 ## Examples
 
